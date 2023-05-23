@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP4BIS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP4BIS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\ImagenesBanderas\\Bandera-de-Argentina.png.webp",
+      "PackagePath": "staticwebassets\\ImagenesBanderas\\Bandera-de-Argentina.png.webp"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\ImagenesBanderas\\Bandera_Chile.png",
+      "PackagePath": "staticwebassets\\ImagenesBanderas\\Bandera_Chile.png"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\ImagenesBanderas\\Bandera_EstadosUnidos.png",
+      "PackagePath": "staticwebassets\\ImagenesBanderas\\Bandera_EstadosUnidos.png"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\ImagenesBanderas\\Thumbs.db",
+      "PackagePath": "staticwebassets\\ImagenesBanderas\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\ImagenesBanderas\\bandera_Brasil.png",
+      "PackagePath": "staticwebassets\\ImagenesBanderas\\bandera_Brasil.png"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\ImagenesBanderas\\bandera_Jamaica.png",
+      "PackagePath": "staticwebassets\\ImagenesBanderas\\bandera_Jamaica.png"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\47961340\\Downloads\\TP4BIS-main\\TP4BIS-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TP4BIS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TP4BIS.props",
+      "PackagePath": "build\\TP4BIS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TP4BIS.props",
+      "PackagePath": "buildMultiTargeting\\TP4BIS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TP4BIS.props",
+      "PackagePath": "buildTransitive\\TP4BIS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
